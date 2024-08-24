@@ -9,7 +9,13 @@ The project aims to analyze and understand the impact of health behaviors on the
 ### Visualization: 
 The analysis was further broken down in terms of daily routines, nutritional habits, and engagement in risky behaviors.
 In order to elucidate the connections between healh metrics and different socio-economic impacts, seaborn and matplotlib was used to create different visualiations.
-## Results
-- 
-## Conclusion
+
+## Results and Recommendations
+- Our health index highlighted that there was an overall 58% decline in average student health since 2017
+- On average lower sports, bad nutrition and alcohol consumption directly correlated to bad academic performance
+- We propose banning of vapor products for people under ages of 18, offer balanced breakfast at school and prioritize sports
+
+  **Following is our data-story:**
+
+![Health_Risk_Behaviors_Poster](https://github.com/user-attachments/assets/5682c3a2-503f-490f-b4d8-87ef5d097ccf)
 
